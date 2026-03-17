@@ -46,7 +46,7 @@ Figma: Prototipagem de baixa fidelidade.
 
 Metodologia: User-Centered Design (UCD).
 
- #🧪 Plano de Validação
+# 🧪 Plano de Validação
 Para validar a eficácia do protótipo, propõe-se:
 
 Teste de 5 Segundos: Verificar se o botão de ajuda emocional é identificado imediatamente.
@@ -54,6 +54,6 @@ Teste de 5 Segundos: Verificar se o botão de ajuda emocional é identificado im
 Task Success Rate: Medir quantos usuários completam o agendamento sem retornar telas.
 
 # ✍️ Autor
-Talisom Santos Izidoro
-Ector Falcao
-Leonardo Telles
+* Talisom Santos Izidoro
+* Ector Falcao
+* Leonardo Telles
