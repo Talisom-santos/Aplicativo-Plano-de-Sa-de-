@@ -131,4 +131,4 @@ Neste projeto, busquei contemplar todos os critérios exigidos pelo professor:
 Desenvolvido por:
 - **Ector Carvalho** - Estudante de Análise e Desenvolvimento de Sistemas (2º Semestre).
 - **Leonardo Teles** - Estudante de Análise e Desenvolvimento de Sistemas (2º Semestre).
-- **Tales Izidoro** - Estudante de Análise e Desenvolvimento de Sistemas (2º Semestre).
+- **Talisom Santos** - Estudante de Análise e Desenvolvimento de Sistemas (2º Semestre).
