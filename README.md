@@ -70,7 +70,6 @@ flowchart TD
     %% Caminho 2
     subgraph Caminho2 ["Caminho 2: Busca Ativa"]
         D["Usar Barra de Busca ou Filtro Rápido"]
-        E["Escolher Profissional na Lista"]
     end
 
     %% Etapas Comuns
