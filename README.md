@@ -2,7 +2,7 @@
 
 > **Status do Projeto:** Concluído ✅ | **Data de Entrega:** 17/03/2026
 
-Olá! 👋 Bem-vindo(a) ao repositório do meu projeto de interface mobile. Este wireframe de baixa fidelidade foi desenvolvido como requisito da disciplina de Interação Humano-Computador / Design de Interfaces do 2º semestre do curso de **Análise e Desenvolvimento de Sistemas**.
+Olá! 👋 Bem-vindo(a) ao repositório do meu projeto de interface mobile. Este wireframe de baixa fidelidade foi desenvolvido como requisito da disciplina Interface e Jornada do Usuário do 2º semestre do curso de **Análise e Desenvolvimento de Sistemas**.
 
 ---
 
