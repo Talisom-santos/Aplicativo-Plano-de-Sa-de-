@@ -83,10 +83,9 @@ flowchart TD
     
     B --> C
     B --> D
-    D --> E
+    D --> F
     
     C --> F
-    E --> F
     
     F --> G
     
